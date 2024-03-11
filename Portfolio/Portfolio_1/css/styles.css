@@ -1,0 +1,30 @@
+body {
+    background-color:#FFC4C4;
+  }
+  hr {
+    border-color:grey;
+    border-style:none;
+    border-top-style:dotted;
+    border-width:5px;
+    width:20%;
+  }
+  h1 {
+    font: italic 1.2em "Fira Sans", serif;;
+    color:#EE6983;
+  }
+  h2 {
+    font: italic 1.2em "Fira Sans", serif;;
+    color:#EE6983;
+/**************Class**************/
+  }
+  .Camera {
+    background-color:Red;
+    border-radius:50%;
+  }
+  .Caurage {
+    border-radius:50%;
+  }
+  .Profile_img {
+    clip-path:circle();
+  }
+/**************Id**************/
